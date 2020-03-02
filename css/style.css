@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #000000;
+}
+.navbar-nav li a{
+    color: #fff;
+}
+
+.nav-icon li i{
+    height: 40px;
+    color: #fff;
+
+}
+
+
+
+
+.banner{
+    background-image: url(../images/banner.png);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.content h1{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 600px;
+}
+.content{
+    width: 460px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.content-button button{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.btn-custom{
+    background-color: #000000;
+    color: #fff;
+}   
+
+.snow-content h1{
+    color:#000000;
+    font-size: 50px;
+}
+.snow-content p{
+    color: #000000;
+    font-size: 16px;
+}
+
+
+
+
+
+
+.mountain{
+    background-image: url(../images/mountain.png);
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.mountain-content{
+    padding-top: 150px;
+}
+.mountain-content h1{
+    color: #fff;
+    font-size: 50px;
+}
+.mountain-content p{
+    color: #fff;
+    font-size: 16px;
+}
+
